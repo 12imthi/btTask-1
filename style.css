@@ -16,7 +16,7 @@ body {
   height: 80vh;
   background-color: #353535;
   border-radius: 10px;
-  margin: 0 70px;
+  margin: 0 50px;
 }
 .box-2 {
   display: flex;
@@ -35,7 +35,7 @@ body {
 .box-3 {
   display: flex;
   justify-content: space-between;
-  margin: 10px 0 80px 0;
+  margin: 10px 0 50px 0;
 }
 .box-3 .col-3 {
   background-color: #353535;
